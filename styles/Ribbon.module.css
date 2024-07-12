@@ -1,0 +1,13 @@
+.ribbon{
+    background-color: #BC8449;
+    height: 38px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.ribbon span{
+    font-size: 14px;
+    color: white;
+}

@@ -1,0 +1,31 @@
+.banner{
+ /* height: 656px; */
+ position: relative;
+}
+/* .banner image{
+    width: 50%;
+    height: 656px;
+} */
+
+.headings{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100%;
+ position: absolute;
+ top: 0;
+ width: 100%;
+ flex-direction: column;
+ gap: 40px;
+}
+.headings span{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    width: 710px;
+    /* height: 144px; */
+}
+.headings a{
+    color: white;
+    text-decoration: underline;
+}

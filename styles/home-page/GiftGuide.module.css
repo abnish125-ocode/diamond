@@ -1,0 +1,127 @@
+.heading{
+   margin-top: 80px; 
+   margin-bottom: 10px;
+}
+.heading h2{
+    font-size: 40px;
+    font-family: GT Ultra Fine Trial;
+    color: #430707;
+}
+.gifts{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.title{
+   padding-top: 20px;
+}
+.title a{
+     color: #B78442;
+    font-size: 25px;
+    font-family: GT Ultra Fine Trial;
+    text-decoration: none;
+    font-family: 'GT Ultra Fine Trial';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 22px; 
+align-items: center;
+text-decoration-line: underline;
+text-transform: capitalize;
+}
+
+/* products  */
+.product{
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+    padding: 20px 0px;
+}
+.product p{
+    font-family: 'GT Ultra Fine Trial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #430707;
+}
+
+/* Gifts for her */
+
+/* position: absolute;
+width: 337px;
+height: 22px;
+left: 30px;
+top: 2348px;
+
+font-family: 'GT Ultra Fine Trial';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 22px; */
+/* identical to box height, or 88% */
+/* display: flex;
+align-items: center;
+text-decoration-line: underline;
+text-transform: capitalize; */
+
+/* Gold */
+/* color: #B78442; */
+
+/* btn */
+/* Button */
+
+.btn{
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 60px
+
+}
+.btn button{
+    padding: 16px 48px;
+background: #B78442;
+border: 1px solid ;
+font-family: 'GT Ultra Trial';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+/* Auto layout */
+/* display: flex;
+flex-direction: column;
+align-items: center;
+padding: 16px 48px;
+
+position: absolute;
+width: 276px;
+height: 49px;
+left: calc(50% - 276px/2);
+top: 2433px;
+
+
+background: #B78442; */
+/* Shop valentine’s guide */
+
+/* width: 180px;
+height: 17px; */
+
+
+
+
+
+
+/* Inside auto layout */
+/* flex: none;
+order: 0;
+flex-grow: 0; */
+
+

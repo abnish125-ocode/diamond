@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 116px;
+}
+.logo{
+
+}
+.nav{
+    width: 378px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav a{
+    color: #430707;
+    text-decoration: none;
+}
+.list{
+    display: flex;
+    justify-content: space-evenly;
+    width: 262px;
+    align-items: center;
+}
+
+.list a{
+    font-size: 12px;
+    color: #430707;
+    text-decoration: none;
+    
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+}

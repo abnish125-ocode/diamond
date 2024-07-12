@@ -1,0 +1,139 @@
+/* Group 814 */
+
+/* position: absolute;
+width: 1447px;
+height: 338px;
+left: 0px;
+top: 3751px; */
+
+.link{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 10px;
+}
+/* Help */
+
+.link p{
+    font-family: 'GT Ultra Trial';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 15px;
+display: flex;
+align-items: center;
+letter-spacing: 0.256px;
+text-transform: uppercase;
+color: #430707;
+}
+
+.link a{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.256px;
+text-transform: capitalize;
+color: #430707;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.para{
+    /* Lorem ipsum dolor sit amet consectetur. Vel erat enim metus turpis egestas. */
+
+/* position: absolute;
+width: 263px;
+height: 72px;
+left: 1075px;
+top: 3826.44px; */
+
+font-family: 'GT Ultra Trial';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+/* Wine */
+color: #430707;
+
+
+}
+
+.btn{
+    /* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 16px 48px;
+border: none;
+
+/* position: absolute;
+width: 263px;
+height: 49px;
+left: 1075px;
+top: 3920.44px; */
+
+/* Gold */
+background: #B78442;
+
+/* join now for free */
+
+/* width: 142px;
+height: 17px; */
+
+font-family: 'GT Ultra Trial';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height, or 120% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+}
+
+/* position: absolute;
+width: 37px;
+height: 15px;
+left: 102px;
+top: 3751px; */
+
+/* Returns & exchange */
+
+/* width: 138px;
+height: 16px; */
+
+
+
+/* Wine */
+
+
+
+/* Inside auto layout */
+
+
+
+
+
+/* Wine */
+
+

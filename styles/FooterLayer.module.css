@@ -1,0 +1,117 @@
+/* background: #B78442; */
+.ribbon{
+    background: #B78442;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.para{
+    /* Shipping to: United states($) */
+/* 
+position: absolute;
+width: 198px;
+height: 16px;
+left: 102px;
+top: 4051px; */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.256px;
+text-transform: capitalize;
+
+/* White */
+color: #FFFFFF;
+margin-bottom: 0px;
+
+
+}
+/* Rectangle 4 */
+
+
+.links{
+    /* Frame 49 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+/* position: absolute;
+width: 553px;
+height: 15px;
+left: 576px;
+top: 4052px; */
+
+
+}
+.links a{
+    /* Membership */
+
+/* width: 80px;
+height: 15px; */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.256px;
+text-transform: capitalize;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.icons{
+    /* Frame 50 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 7px;
+
+/* position: absolute;
+width: 155px;
+height: 24px;
+left: 1183px;
+top: 4048px; */
+
+
+}
+.icons img{
+    /* Twitter */
+
+margin: 0 auto;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+}

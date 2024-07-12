@@ -1,0 +1,26 @@
+.rings{
+    display: flex;
+    gap: 4px;
+    position: relative;
+  z-index: -1;
+
+}
+.react{
+    /* background-color: #E7E5E1; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   flex-direction: column;
+}
+.react div span{
+    position: absolute;
+    top: 80%;
+    color: #BC8449;
+    font-size: 25px;
+    font-family: GT Ultra Fine Trial;
+}
+.react div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

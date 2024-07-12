@@ -1,0 +1,77 @@
+.reviews{
+    height: 398px;
+    padding: 60px;
+    margin: 120px 0px;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid white;
+    
+}
+.head p{
+    font-family: 'GT Ultra Trial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+}
+.title{
+ font-size: 16px;
+}
+.vector{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    /* align-items: center; */
+
+}
+.heading p{
+    font-family: 'GT Ultra Trial';
+font-style: normal;
+/* font-weight: 700; */
+font-size: 16px;
+line-height: 22px;
+color: white;
+}
+
+/* Line 7 */
+
+/*  */
+/* Real Reviews From Real Customers */
+
+.tagLine p{
+  color: white;
+  text-transform: uppercase;
+  font-family: 'GT Ultra Trial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+}
+.discription p{
+    color: white;
+    font-family: 'GT Ultra Trial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+}
+/* .star{
+
+} */
+.sec{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.admin p{
+    font-family: 'GT Ultra Trial';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 22px;
+color: white;
+}
